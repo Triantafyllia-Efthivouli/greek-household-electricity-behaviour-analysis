@@ -159,9 +159,13 @@ Observation periods and monitored appliance availability also vary between house
 <img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/350508c8-1041-4541-a0b6-4d7962850ca5" />
 
 
+## Repository Contents
 
-
-
+- [Power BI Dashboard](./Greek_Household_Electricity_Behaviour_Analysis.pbix)
+- [Electricity 15-Minute Preprocessing](./build_all_houses_electricity_15min.py)
+- [Electricity Daily Aggregation](./build_electricity_daily.py)
+- [Household Data Preparation](./build_households.py)
+- [Environmental Daily Aggregation](./build_environmental_daily.py)
 
 
 ## Author
