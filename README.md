@@ -156,7 +156,8 @@ Observation periods and monitored appliance availability also vary between house
 <img width="1310" height="737" alt="image" src="https://github.com/user-attachments/assets/1509af98-30a9-4f47-9fa0-2ccb68653e74" />
 
 #### Συσκευές & Περιβαλλοντικοί Παράγοντες
-<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/74972b8a-09aa-4811-a261-f7fa81ddb8d9" />
+<img width="1311" height="740" alt="image" src="https://github.com/user-attachments/assets/350508c8-1041-4541-a0b6-4d7962850ca5" />
+
 
 
 
