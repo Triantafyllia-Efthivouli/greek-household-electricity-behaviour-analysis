@@ -144,7 +144,24 @@ Observation periods and monitored appliance availability also vary between house
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here.
+#### Consumption Overview
+<img width="1311" height="742" alt="image" src="https://github.com/user-attachments/assets/d69c3b73-b4fe-40b8-8f8e-6f059a563da6" />
+
+#### Appliances & Environmental Factors
+<img width="1318" height="742" alt="image" src="https://github.com/user-attachments/assets/4882101b-5fc1-448d-8392-d8ef20357041" />
+
+### Greek Version
+
+#### Κύρια Επισκόπηση Κατανάλωσης
+<img width="1310" height="737" alt="image" src="https://github.com/user-attachments/assets/1509af98-30a9-4f47-9fa0-2ccb68653e74" />
+
+#### Συσκευές & Περιβαλλοντικοί Παράγοντες
+<img width="1313" height="736" alt="image" src="https://github.com/user-attachments/assets/74972b8a-09aa-4811-a261-f7fa81ddb8d9" />
+
+
+
+
+
 
 ## Author
 
